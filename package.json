@@ -1,32 +1,27 @@
 {
-  "name": "lutils",
+  "name": "l-utils",
   "version": "1.0.0",
-  "description": "常用的功能函数",
+  "description": "[![NPM version](https://img.shields.io/npm/v/l-utils.svg?style=flat)](https://npmjs.org/package/l-utils)\r [![NPM downloads](http://img.shields.io/npm/dm/l-utils.svg?style=flat)](https://npmjs.org/package/l-utils)\r [![Dependencies](https://david-dm.org/sorrycc/l-utils/status.svg)](https://david-dm.org/sorrycc/l-utils)",
   "main": "index.js",
-  "directories": {
-    "test": "tests"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/giscrazier/Lutils.git"
-  },
-  "keywords": [
-    "utils"
-  ],
-  "author": "yyl",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/giscrazier/Lutils/issues"
-  },
-  "homepage": "https://github.com/giscrazier/Lutils#readme",
   "dependencies": {
     "downloadjs": "^1.4.7",
     "fetch-jsonp": "^1.1.3",
     "store2": "^2.7.0",
     "whatwg-fetch": "^2.0.3",
     "wolfy87-eventemitter": "^5.2.4"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giscrazier/L-utils.git"
+  },
+  "author": "yyl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giscrazier/L-utils/issues"
+  },
+  "homepage": "https://github.com/giscrazier/L-utils#readme"
 }

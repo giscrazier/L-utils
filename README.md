@@ -1,12 +1,12 @@
 # Lutils
 
-[![NPM version](https://img.shields.io/npm/v/Lutils.svg?style=flat)](https://npmjs.org/package/Lutils)
-[![NPM downloads](http://img.shields.io/npm/dm/Lutils.svg?style=flat)](https://npmjs.org/package/Lutils)
-[![Dependencies](https://david-dm.org/sorrycc/Lutils/status.svg)](https://david-dm.org/sorrycc/Lutils)
+[![NPM version](https://img.shields.io/npm/v/l-utils.svg?style=flat)](https://npmjs.org/package/l-utils)
+[![NPM downloads](http://img.shields.io/npm/dm/l-utils.svg?style=flat)](https://npmjs.org/package/l-utils)
+[![Dependencies](https://david-dm.org/sorrycc/l-utils/status.svg)](https://david-dm.org/sorrycc/l-utils)
 
 # 目录
 
-* [Request](#request) [详细](https://github.com/giscrazier/Lutils/tree/master/src/request)
+* [Request](#request) [详细](https://github.com/giscrazier/l-utils/tree/master/src/request)
 * [Store](#store) [详细](https://www.npmjs.com/package/store2)
 * [Event](#event)
 * [Download](#download) [详细](https://www.npmjs.com/package/downloadjs)
