@@ -1,7 +1,6 @@
 {
-  "name": "l-utils",
+  "name": "@gissky/l-utils",
   "version": "1.0.0",
-  "description": "[![NPM version](https://img.shields.io/npm/v/l-utils.svg?style=flat)](https://npmjs.org/package/l-utils)\r [![NPM downloads](http://img.shields.io/npm/dm/l-utils.svg?style=flat)](https://npmjs.org/package/l-utils)\r [![Dependencies](https://david-dm.org/sorrycc/l-utils/status.svg)](https://david-dm.org/sorrycc/l-utils)",
   "main": "index.js",
   "dependencies": {
     "downloadjs": "^1.4.7",
